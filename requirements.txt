@@ -1,0 +1,12 @@
+Flask
+Gunicorn
+user_agent
+requests
+pycryptodome
+protobuf
+requirements.txt
+
+flask
+pycryptodome
+protobuf
+requests
